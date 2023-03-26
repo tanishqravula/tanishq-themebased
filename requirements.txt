@@ -4,3 +4,5 @@ numpy
 matplotlib
 pandas
 scikit_learn
+pickle
+streamlit_option_menu
